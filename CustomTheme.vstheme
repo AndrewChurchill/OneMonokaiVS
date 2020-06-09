@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="DrewOneMonokai" GUID="{7c1006f6-6624-42f4-8a9a-abd65135b38f}" BaseGUID="{0024020f-bba3-4365-9ea1-63b23313d509}">
+  <Theme Name="DrewOneMonokai (1)" GUID="{1dd8c135-04dc-45fa-ad15-daaf0d0380e1}" BaseGUID="{0024020f-bba3-4365-9ea1-63b23313d509}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF282C34" />
@@ -1073,7 +1073,7 @@
     <Category Name="Command Window" GUID="{ee1be240-4e81-4beb-8eea-54322b6b1bf5}">
       <Color Name="Plain Text">
         <Background Type="CT_RAW" Source="FF282C34" />
-        <Foreground Type="CT_RAW" Source="FFBDBDBD" />
+        <Foreground Type="CT_RAW" Source="FFABB2BF" />
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF54A4E3" />
@@ -3152,8 +3152,8 @@
     </Category>
     <Category Name="Editor Tooltip" GUID="{a9a5637f-b2a8-422e-8fb5-dfb4625f0111}">
       <Color Name="Plain Text">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFBDBDBD" />
+        <Background Type="CT_RAW" Source="FF282C34" />
+        <Foreground Type="CT_RAW" Source="FFABB2BF" />
       </Color>
     </Category>
     <Category Name="Environment" GUID="{624ed9c3-bdfd-41fa-96c3-7c824ea32e3d}">
@@ -5527,7 +5527,7 @@
     <Category Name="Find Results" GUID="{5c48b2cb-0366-4fbf-9786-0bb37e945687}">
       <Color Name="Plain Text">
         <Background Type="CT_RAW" Source="FF282C34" />
-        <Foreground Type="CT_RAW" Source="FFBDBDBD" />
+        <Foreground Type="CT_RAW" Source="FFABB2BF" />
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF54A4E3" />
@@ -5599,7 +5599,7 @@
     <Category Name="FSharpInteractive" GUID="{00ccee86-3140-4e06-a65a-a92665a40d6f}">
       <Color Name="Plain Text">
         <Background Type="CT_RAW" Source="FF282C34" />
-        <Foreground Type="CT_RAW" Source="FFBDBDBD" />
+        <Foreground Type="CT_RAW" Source="FFABB2BF" />
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF54A4E3" />
@@ -5950,7 +5950,7 @@
     <Category Name="Immediate Window" GUID="{6bb65c5a-2f31-4bde-9f48-8a38dc0c63e7}">
       <Color Name="Plain Text">
         <Background Type="CT_RAW" Source="FF282C34" />
-        <Foreground Type="CT_RAW" Source="FFBDBDBD" />
+        <Foreground Type="CT_RAW" Source="FFABB2BF" />
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF54A4E3" />
@@ -6656,7 +6656,7 @@
     <Category Name="Output Window" GUID="{9973efdf-317d-431c-8bc1-5e88cbfd4f7f}">
       <Color Name="Plain Text">
         <Background Type="CT_RAW" Source="FF282C34" />
-        <Foreground Type="CT_RAW" Source="FFBDBDBD" />
+        <Foreground Type="CT_RAW" Source="FFABB2BF" />
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF54A4E3" />
@@ -6694,7 +6694,7 @@
     <Category Name="Package Manager Console" GUID="{f9d6bce6-c669-41db-8ee7-dd953828685b}">
       <Color Name="Plain Text">
         <Background Type="CT_RAW" Source="FF282C34" />
-        <Foreground Type="CT_RAW" Source="FFBDBDBD" />
+        <Foreground Type="CT_RAW" Source="FFABB2BF" />
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_RAW" Source="FF54A4E3" />
@@ -7190,8 +7190,8 @@
     </Category>
     <Category Name="SQL Results - Text" GUID="{587d0421-e473-4032-b214-9359f3b7bc80}">
       <Color Name="Plain Text">
-        <Background Type="CT_RAW" Source="FF2E323A" />
-        <Foreground Type="CT_RAW" Source="FFBDBDBD" />
+        <Background Type="CT_RAW" Source="FF282C34" />
+        <Foreground Type="CT_RAW" Source="FFABB2BF" />
       </Color>
     </Category>
     <Category Name="StartPage" GUID="{65d78f35-869e-4bf3-8e52-991fee554a16}">
@@ -7402,8 +7402,8 @@
     </Category>
     <Category Name="Task Runner Explorer" GUID="{af57483a-a3e2-4330-a7cd-21f3dc681594}">
       <Color Name="PlainText">
-        <Background Type="CT_RAW" Source="FF000000" />
-        <Foreground Type="CT_RAW" Source="FFC0C0C0" />
+        <Background Type="CT_RAW" Source="FF282C34" />
+        <Foreground Type="CT_RAW" Source="FFABB2BF" />
       </Color>
       <Color Name="SelectedText">
         <Background Type="CT_INVALID" Source="00000000" />
