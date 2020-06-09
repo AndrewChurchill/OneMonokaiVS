@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="DrewOneMonokai (5)" GUID="{20e04472-072d-44ac-b004-a67af8eaa26f}" BaseGUID="{0024020f-bba3-4365-9ea1-63b23313d509}">
+  <Theme Name="DrewOneMonokai (6)" GUID="{39b915e5-0867-4f7f-8a26-ad3839ae5f07}" BaseGUID="{0024020f-bba3-4365-9ea1-63b23313d509}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF282C34" />
@@ -379,7 +379,7 @@
         <Background Type="CT_RAW" Source="FF8C8D90" />
       </Color>
       <Color Name="PropertyValueLocal">
-        <Background Type="CT_RAW" Source="FFBDBDBD" />
+        <Background Type="CT_RAW" Source="FFABB2BF" />
       </Color>
       <Color Name="MenuSeparator">
         <Background Type="CT_RAW" Source="FF282C34" />
@@ -2631,7 +2631,7 @@
       </Color>
       <Color Name="local name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FFABB2BF" />
       </Color>
       <Color Name="parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6430,7 +6430,7 @@
       </Color>
       <Color Name="Plain Text">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFABB2BF" />
       </Color>
       <Color Name="SelectedText">
         <Background Type="CT_INVALID" Source="00000000" />
