@@ -2079,7 +2079,7 @@
       </Color>
       <Color Name="CSS Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC678DD" />
+        <Foreground Type="CT_RAW" Source="FFE06C75" />
       </Color>
       <Color Name="CSS Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -2135,7 +2135,7 @@
       </Color>
       <Color Name="VBScript Keyword">
         <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FFBDBDBD" />
+        <Foreground Type="CT_RAW" Source="FFE06C75" />
       </Color>
       <Color Name="VBScript Comment">
         <Background Type="CT_COLORINDEX" Source="00000001" />
@@ -2447,7 +2447,7 @@
       </Color>
       <Color Name="LessCssKeywordFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD69C56" />
+        <Foreground Type="CT_RAW" Source="FFE06C75" />
       </Color>
       <Color Name="ScssMixinDeclarationFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2575,7 +2575,7 @@
       </Color>
       <Color Name="CppControlKeywordSyntacticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC678DD" />
+        <Foreground Type="CT_RAW" Source="FFE06C75" />
       </Color>
       <Color Name="CppStringEscapeCharacterSyntacticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -6900,7 +6900,7 @@
         <Foreground Type="CT_RAW" Source="FFCCCCCC" />
       </Color>
       <Color Name="LTPreviewKeyword">
-        <Foreground Type="CT_RAW" Source="FFADD8E6" />
+        <Foreground Type="CT_RAW" Source="FFE06C75" />
       </Color>
       <Color Name="LTPreviewField">
         <Foreground Type="CT_RAW" Source="FFDEB887" />
@@ -7955,7 +7955,7 @@
     <Category Name="Text Editor Language Service Items" GUID="{e0187991-b458-4f7e-8ca9-42c9a573b56c}">
       <Color Name="Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC678DD" />
+        <Foreground Type="CT_RAW" Source="FFE06C75" />
       </Color>
       <Color Name="Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -8039,7 +8039,7 @@
       </Color>
       <Color Name="XAML Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC678DD" />
+        <Foreground Type="CT_RAW" Source="FFE06C75" />
       </Color>
       <Color Name="XAML Delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -8091,7 +8091,7 @@
       </Color>
       <Color Name="XML Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC678DD" />
+        <Foreground Type="CT_RAW" Source="FFE06C75" />
       </Color>
       <Color Name="XML Delimiter">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -8119,7 +8119,7 @@
       </Color>
       <Color Name="XSLT Keyword">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC678DD" />
+        <Foreground Type="CT_RAW" Source="FFE06C75" />
       </Color>
       <Color Name="Memory Data">
         <Background Type="CT_INVALID" Source="00000000" />
