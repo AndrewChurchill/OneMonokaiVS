@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="DrewOneMonokai (2)" GUID="{781e9b78-3364-43d7-8880-5583e28acf98}" BaseGUID="{0024020f-bba3-4365-9ea1-63b23313d509}">
+  <Theme Name="DrewOneMonokai (3)" GUID="{cb4a8079-cf4d-4bf1-9f54-7f74b92940da}" BaseGUID="{0024020f-bba3-4365-9ea1-63b23313d509}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF282C34" />
@@ -2483,7 +2483,7 @@
       </Color>
       <Color Name="CppParameterSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FFD19A66" />
       </Color>
       <Color Name="CppTypeSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2635,7 +2635,7 @@
       </Color>
       <Color Name="parameter name">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFE06C75" />
+        <Foreground Type="CT_RAW" Source="FFD19A66" />
       </Color>
       <Color Name="method name">
         <Background Type="CT_INVALID" Source="00000000" />
