@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="DrewOneMonokai (6)" GUID="{39b915e5-0867-4f7f-8a26-ad3839ae5f07}" BaseGUID="{0024020f-bba3-4365-9ea1-63b23313d509}">
+  <Theme Name="DrewOneMonokai (7)" GUID="{28728429-65a0-4d7b-bd9c-100ea43f5f90}" BaseGUID="{0024020f-bba3-4365-9ea1-63b23313d509}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF282C34" />
@@ -2786,7 +2786,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="vsvim_commandmargin">
-        <Background Type="CT_RAW" Source="FF282C34" />
+        <Background Type="CT_RAW" Source="FF2E323A" />
         <Foreground Type="CT_RAW" Source="FFABB2BF" />
       </Color>
       <Color Name="vsvim_controlchar">
@@ -2795,7 +2795,7 @@
       </Color>
       <Color Name="vsvim_blockcaret">
         <Background Type="CT_RAW" Source="FF528BFF" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF528BFF" />
       </Color>
       <Color Name="vsvim_primarycaret">
         <Background Type="CT_INVALID" Source="00000000" />
