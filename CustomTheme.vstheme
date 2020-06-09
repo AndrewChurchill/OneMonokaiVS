@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="DrewOneMonokai (3)" GUID="{cb4a8079-cf4d-4bf1-9f54-7f74b92940da}" BaseGUID="{0024020f-bba3-4365-9ea1-63b23313d509}">
+  <Theme Name="DrewOneMonokai (4)" GUID="{a658d20c-31fd-4442-b33c-7745008bf65f}" BaseGUID="{0024020f-bba3-4365-9ea1-63b23313d509}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF282C34" />
@@ -2259,7 +2259,7 @@
       </Color>
       <Color Name="enum name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF56B6C2" />
+        <Foreground Type="CT_RAW" Source="FF61AFEF" />
       </Color>
       <Color Name="module name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -2267,11 +2267,11 @@
       </Color>
       <Color Name="class name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF56B6C2" />
+        <Foreground Type="CT_RAW" Source="FF61AFEF" />
       </Color>
       <Color Name="delegate name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF56B6C2" />
+        <Foreground Type="CT_RAW" Source="FF61AFEF" />
       </Color>
       <Color Name="struct name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -2675,19 +2675,19 @@
       </Color>
       <Color Name="ASD-ESH.Definition.Event">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF61AFEF" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="ASD-ESH.Definition.Field">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF61AFEF" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="ASD-ESH.Definition.FieldConstant">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF61AFEF" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="ASD-ESH.Definition.Enum">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF61AFEF" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="ASD-ESH.Definition.Local">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2715,7 +2715,7 @@
       </Color>
       <Color Name="ASD-ESH.Definition.Property">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF61AFEF" />
+        <Foreground Type="CT_RAW" Source="FF56B6C2" />
       </Color>
       <Color Name="Test Summary - Default">
         <Background Type="CT_INVALID" Source="00000000" />
