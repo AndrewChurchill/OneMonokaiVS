@@ -1785,7 +1785,7 @@
         <Foreground Type="CT_RAW" Source="FFFFA000" />
       </Color>
       <Color Name="ScriptNumber">
-        <Foreground Type="CT_RAW" Source="FFD19A66" />
+        <Foreground Type="CT_RAW" Source="FFC678DD" />
       </Color>
       <Color Name="ScriptClassName">
         <Foreground Type="CT_RAW" Source="FFE5C07B" />
@@ -2147,7 +2147,7 @@
       </Color>
       <Color Name="VBScript Number">
         <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FFD19A66" />
+        <Foreground Type="CT_RAW" Source="FFC678DD" />
       </Color>
       <Color Name="VBScript String">
         <Background Type="CT_COLORINDEX" Source="00000001" />
@@ -7971,7 +7971,7 @@
       </Color>
       <Color Name="Number">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFD19A66" />
+        <Foreground Type="CT_RAW" Source="FFC678DD" />
       </Color>
       <Color Name="XML CData Section">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
