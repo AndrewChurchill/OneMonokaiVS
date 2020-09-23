@@ -63,6 +63,7 @@
     <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="16.1.3132" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Class1.cpp" />
     <Content Include="ColorReference.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
