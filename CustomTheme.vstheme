@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="DrewOneMonokai (8)" GUID="{145c2149-9875-4fe5-ac0b-03215b799082}" BaseGUID="{0024020f-bba3-4365-9ea1-63b23313d509}">
+  <Theme Name="OneMonokaiVS" GUID="{145c2149-9875-4fe5-ac0b-03215b799082}" BaseGUID="{0024020f-bba3-4365-9ea1-63b23313d509}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF282C34" />
